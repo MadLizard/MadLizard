@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MadLizard 
-- 👀 I’m interested in ... Hacking , Debugging
+- 👀 I’m interested in ... Phishing, cryptography , Debugging
 - 🌱 I’m currently learning ...App Development
 - 💞️ I’m looking to collaborate on ... Software developers
 - 📫 How to reach me ... alanverse17@gmail.com
